@@ -1,0 +1,74 @@
+div.container-fluid img#icono {
+  width: 35px;
+}
+
+div.container-fluid button#sesion {
+  margin-right: 10px;
+}
+
+div#icono_sesion img {
+  width: 100px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+div#boton_sesion button.btn-primary {
+  margin-right: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+#nosotros p {
+  text-align: center;
+}
+
+div#logo_nosotros img {
+  width: 100px;
+}
+
+ul#redes_sociales li {
+  list-style: none;
+  float: right;
+  margin-right: 20px;
+  margin-top: -6px;
+}
+
+ul#redes_sociales li a img {
+  width: 50px;
+}
+
+div#titulo_registro h1 {
+  text-align: center;
+}
+
+div#boton_registro button.btn-primary {
+  margin-right: 10px;
+}
+
+div#avatar img {
+  width: 150px;
+}
+
+div#comienza {
+  margin-top: 90px;
+}
+
+div#boton_siguiente {
+  margin-top: 70px;
+}
+
+div#icono_ticket img {
+  width: 200px;
+}
+
+div.imagen_fondo_admin img {
+  margin-left: 70%;
+}
+
+div#btn_imp input.btn {
+  margin-left: 43%;
+}
+
+/*# sourceMappingURL=estilos.css.map */
