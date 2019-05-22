@@ -28,7 +28,7 @@
                                 <a class="nav-link" href="inicio.php#nosotros">Nosotros</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="paquete.php">Paquetes</a>
+                                <a class="nav-link" href="comienza.php">Paquetes</a>
                             </li>
                         </ul>
                         <button id="sesion" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal"><?php echo $sesion ?></button>

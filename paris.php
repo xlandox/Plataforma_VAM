@@ -80,7 +80,20 @@
         </div>
     </div>
     <!--Termina menu superior-->
-    Paris
+    <h1>Paris</h1>
+    <br>
+    <div class="container"> 
+        <div class="row">
+            <div class="col-3"></div>
+                <div class="col-6">
+                    <button type="button" class="btn btn-primary btn-lg btn-block" onclick="comienza()">Adquiere tus boletos</button>
+                </div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
     <!-- JavaScript -->
     <script src="js/eventos.js"></script>
     <script src="js/jquery-3.3.1.slim.min.js"></script>
